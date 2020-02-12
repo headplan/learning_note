@@ -34,5 +34,18 @@
   * 类似Code Review
   * 教练辅助
 
+---
+
+#### 刻意练习实际操作案例
+
+**四步操作**
+
+* Clarification - 理清 , 明确步骤
+* Possible solutions - 可能的解决方案
+  * compare - 对比
+  * optimal - 最优解
+* Train - 训练
+* Testing - 测验
+
 
 
