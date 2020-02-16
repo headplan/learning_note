@@ -10,4 +10,5 @@
   * [注意力写作方法论](guan-yu-cheng-chang/zhu-yi-li-xie-zuo-fang-fa-lun-zheng-li.md)
   * [个人品牌运营](guan-yu-cheng-chang/ge-ren-pin-pai-yun-ying-zheng-li.md)
 * [关于编程](guan-yu-bian-cheng.md)
+  * [Clean Code](guan-yu-bian-cheng/clean-code.md)
 
