@@ -12,7 +12,5 @@
 
 [https://www.jianshu.com/p/5366cefad337](https://www.jianshu.com/p/5366cefad337)
 
-[https://markhneedham.com/blog/2008/09/15/clean-code-book-review/](https://markhneedham.com/blog/2008/09/15/clean-code-book-review/)** \(英文\)**
-
-
+[https://markhneedham.com/blog/2008/09/15/clean-code-book-review/](https://markhneedham.com/blog/2008/09/15/clean-code-book-review/)** \(英\)**
 
